@@ -26,4 +26,4 @@ and one OR gate, implemented on the Digilent Nexys A7 (Artix-7) FPGA.
 5. Program the board and flip SW0 to SW2 to see the sum on LED0 and the carry on LED1.
 
 ## Blog post
-[Link blog post]
+https://dev.to/umaima_khan_a82d6a018037a/designing-a-full-adder-using-structural-modeling-in-verilog-and-implementing-it-on-the-nexys-a7-3ppb

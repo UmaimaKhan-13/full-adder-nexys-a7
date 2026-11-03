@@ -26,4 +26,4 @@ and one OR gate, implemented on the Digilent Nexys A7 (Artix-7) FPGA.
 5. Program the board and flip SW0 to SW2 to see the sum on LED0 and the carry on LED1.
 
 ## Blog post
-[Link to your blog post]
+[Link blog post]
